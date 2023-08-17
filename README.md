@@ -6,3 +6,4 @@
 Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byBenPuls&repo=discord-funbot)](https://github.com/byBenPuls/discord-funbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byBenPuls&repo=node-getcolor)](https://github.com/byBenPuls/node-getcolor)
