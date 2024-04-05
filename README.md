@@ -4,9 +4,13 @@
 | :-----: | :---: |
 
 
-###
+<div style="width: 100%;">
+    <img src="logos/test.svg">
+</div>
 
-<h3 align="left">🛠 Технологии:</h3>
+###
+<hr style="border:1px solid dimgrey">
+<h3 align="left">🛠 Languages:</h3>
 
 ###
 
