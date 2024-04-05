@@ -11,13 +11,13 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/lua-090909?style=for-the-badge&logo=lua)
-![Static Badge](https://img.shields.io/badge/csharp-090909?style=for-the-badge&logo=csharp)
-![Static Badge](https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=typescript)
-![Static Badge](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
-![Static Badge](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql)
-![Static Badge](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)
+![Static Badge](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/lua-0d1117?style=for-the-badge&logo=lua)
+![Static Badge](https://img.shields.io/badge/csharp-0d1117?style=for-the-badge&logo=csharp)
+![Static Badge](https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript)
+![Static Badge](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql)
+![Static Badge](https://img.shields.io/badge/sqlite-0d1117?style=for-the-badge&logo=sqlite)
 
 
 </div>
