@@ -5,7 +5,7 @@
 
 ###
 <hr style="border:1px solid dimgrey">
-<h3 align="left">🛠 Languages:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
