@@ -5,7 +5,7 @@
 
 
 <div style="width: 100%;">
-    <img src="logos/test.svg">
+    <img src="logos/gr.svg">
 </div>
 
 ###
