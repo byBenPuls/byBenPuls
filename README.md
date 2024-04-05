@@ -11,13 +11,14 @@
 
 <div align="center">
 
-<img src="logos/new/python.svg" height="48">
-<img src="logos/new/dotnet.svg" height="48">
-<img src="logos/new/tsnode.svg" height="48">
-<img src="logos/new/nodedotjs.svg" height="48">
-<img src="logos/new/lua.svg" height="48">
-<img src="logos/new/mysql.svg" height="48">
-<img src="logos/new/sqlite.svg" height="48">
+![Static Badge](https://img.shields.io/badge/python-090909?logo=python)
+![Static Badge](https://img.shields.io/badge/lua-090909?logo=lua)
+![Static Badge](https://img.shields.io/badge/csharp-090909?logo=csharp)
+![Static Badge](https://img.shields.io/badge/mysql-090909?logo=mysql)
+![Static Badge](https://img.shields.io/badge/sqlite-090909?logo=sqlite)
+![Static Badge](https://img.shields.io/badge/typescript-090909?logo=typescript)
+![Static Badge](https://img.shields.io/badge/javascript-090909?logo=javascript)
+
 
 </div>
 
