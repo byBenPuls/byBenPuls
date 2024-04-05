@@ -10,13 +10,15 @@
 ###
 
 <div align="center">
-<img src="logos/python_48x48.png">
-<img src="logos/lua_48x48.png" alt="csharp">
 
-<img src="logos/typescript_48x48.png">
-<img src="logos/javascript_48x48.png">
-<img src="logos/csharp_48x48.png" alt="csharp">
-<img src="logos/mysql_48x48.png">
+<img src="logos/new/python.svg" height="48">
+<img src="logos/new/dotnet.svg" height="48">
+<img src="logos/new/tsnode.svg" height="48">
+<img src="logos/new/nodedotjs.svg" height="48">
+<img src="logos/new/lua.svg" height="48">
+<img src="logos/new/mysql.svg" height="48">
+<img src="logos/new/sqlite.svg" height="48">
+
 </div>
 
 ###
