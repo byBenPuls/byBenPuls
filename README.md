@@ -18,6 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql)
 ![Static Badge](https://img.shields.io/badge/sqlite-0d1117?style=for-the-badge&logo=sqlite)
+![Static Badge](https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker)
 
 
 </div>
