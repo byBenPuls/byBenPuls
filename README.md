@@ -1,8 +1,4 @@
 
-<div style="width: 100%;">
-    <img src="logos/gr.svg">
-</div>
-
 ###
 <hr style="border:1px solid dimgrey">
 <h3 align="left">🛠 Technologies:</h3>
