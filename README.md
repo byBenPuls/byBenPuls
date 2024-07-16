@@ -1,6 +1,5 @@
 
 ###
-<hr style="border:0.5px solid dimgrey">
 <h3 align="left">🛠 Technologies:</h3>
 
 ###
@@ -20,7 +19,6 @@
 </div>
 
 ###
-<hr style="border:0.5px solid dimgrey">
 
 <h3 align="left">💾 Stats:</h3>
 <div align="center">
