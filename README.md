@@ -1,4 +1,4 @@
-<h1 align="left">🛠 Technologies:</h1>
+<h1 align="left">🛠 Technologies</h1>
 
 <div align="center">
 
